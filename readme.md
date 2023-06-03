@@ -14,7 +14,7 @@
 ## :nut_and_bolt: Neste projeto aprendi
 
 - Posicionamento de elementos na página
--Animação CSS
+- Animação CSS
 
 
 ## :mailbox_closed: Contatos
